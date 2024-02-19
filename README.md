@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+Here is an example
+![image](https://github.com/AtalibAgAlmousleck/Flutter_SigUp_SigIn_UI/assets/87047616/83e7d70b-3f4c-480b-ac24-7d99d7f0e7d6)
